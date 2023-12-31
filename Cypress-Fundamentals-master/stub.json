@@ -1,0 +1,39 @@
+const thursdaySessionsData = {
+	data: {
+	intro: [
+		{
+		id: “78170”,
+		title: “Cypress 9 Fundamentals”,
+		startsAt: “8:30”,
+		day: "Thursday",
+		room: "Jupiter",
+		level: "Introductory and overview",
+		speakers: [
+			{
+				id: “37313769-11ae-4245-93b3-e6e60d5d187c”,
+				name: “Adhithi Ravichandran”,
+				_typename: “Speaker”,
+			},
+			],
+		_typename: “Session”,	
+		},
+	],
+	intermediate: [
+		{
+		id: "85324",
+		title: "Bamboo Spec",
+		startsAt: "8:30",
+		day: "Thursday",
+		room: "Io",
+		level: "Intermediate",
+		speakers: [
+			{
+				id: "e9c40ccc-1ffd-44f5-90c2-9d69ada76073",
+				name: “Adhithi Ravichandran”,
+				_typename: “Speaker”,
+			},
+			],
+		_typename: “Session”,	
+	}]
+	}
+}
